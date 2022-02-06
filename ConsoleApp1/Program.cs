@@ -64,7 +64,7 @@ namespace ConsoleApp1
             {
                 for (int j = 0; j < m; j++)
                 {
-                    Console.Write(A[i, j] + "   ");
+                    Console.Write(A[i, j] + "    ");
                 }
                 Console.WriteLine();
             }
