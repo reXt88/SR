@@ -21,7 +21,7 @@ namespace SR
         {
             Console.Write("Введите сумму вклада ");
             double a =Convert.ToDouble(Console.ReadLine());
-            //вызов созданного метода
+            //вызов созданного методаа
             AddPersent(a, out double b);
             Console.ReadKey();
         }
